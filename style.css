@@ -9,3 +9,7 @@
     width: 200px;
     max-height: fit-content;
 }
+#footer{
+    background-color: black;
+    color: white;
+}
