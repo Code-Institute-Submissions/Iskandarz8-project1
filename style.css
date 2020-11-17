@@ -1,9 +1,10 @@
 .jumbotron{
     font-style: italic;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: BioRhyme;
 }
-#about-us{
-    font-style: italic;
+.about-us{
+    font-family: spacemono-regular;
+    font-size: 18px;
 }
 .col-sm-6{
     width: 200px;
@@ -20,4 +21,8 @@
 .carousel-images{
     width: 100%;
     height: 50%;
+}
+.about-header{
+    font-family: BioRhyme-bold;
+    font-size: 28px;
 }
