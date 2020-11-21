@@ -37,9 +37,13 @@
 
 }
 .logo-image{
-    width: 46px;
-    height: 46px;
-    border-radius: 50%;
+    width: auto;
+    height: auto;
+    border-radius: 30%;
     overflow: hidden;
-    margin-top: -6px;
+    float: right;
+}
+.subservice-header{
+    font-family: BioRhyme;
+    font-size: 28px;
 }
