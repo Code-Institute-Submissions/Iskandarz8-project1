@@ -4,6 +4,9 @@
 
 This is a one page website which is to create simple layout and to promote grooming and pets services for all the customer. Potential customer can navigate with ease from the top navigation bar to the desire section it consist of services that the company provides
 
+<h2>Demo</h2>
+
+<p> Live website can be view at https://iskandarz8.github.io/project1/</p>
 
 <h2>Running the test</h2>
 
