@@ -1,4 +1,4 @@
-# PETS DYNASTY (PETS GROOMING WEBSITE)
+# PETS PAWS (PETS GROOMING WEBSITE) - Project 1 : User Centric Frontend Development -Code Institute
 
 <h2>PETS GROOMING WEBSITE</h2>
 
@@ -23,8 +23,8 @@ Testing the responsiveness of the webpage and used google developer inspect tool
 
 <h2>UX</h2>
 
-White fonts were selected for contrast on a blue/dark gradient background, while a black font was used for a white background. black, white and blue are chosen to be in line with the identity of the website and shall be representing the company and its interests.
-images is kept minimal, while text are used for better information given for quick viewing. This is to allow readers a more lucid understanding of the content, which is more effective than images.
+White fonts were selected for contrast on a blue/light gradient background, while a black font was used for a white background. yellow, white and blue are chosen to be in line with the identity of the website and shall be representing the company and its interests.
+images is kept minimal, while text are used for better information given for quick viewing. This is to allow readers a more lucid understanding of the content, which is more effective for their understanding. Meanwhile, this website is to promote services require for all the user and potential customer.
 
 <h2>UI</h2>
 
@@ -33,6 +33,24 @@ The navigation bar is also available for the user to skip directly to each secti
 
 <h2>Deployment</h2>
 This website is deployed in github and hosted in github pages html, css, config files and image folders are saved in github repositories online, github page allow users to publish its url online to access website via internet.
+
+<h2>Website Testing</h2>
+<ul>
+  <li>Validator https://validator.w3.org/ There were no error as of now. Result showed "Document checking completed. No errors or warnings to show."</li>
+  <li> Mobile Friendliness Test Tool https://www.bing.com/webmaster/tools/mobile-friendliness Result showed "This page is mobile friendly, Viewport configured correctly, Page content fits device width, Text on the page is readable, Links and tap targets are sufficiently large and touch-friendly.</li>
+  <li>Reponsinator https://www.responsinator.com/ Result showed : "For different type devices portrait, the background image was only shown within the area of content" "For different type devices landspace, the full background image was shown. For about page, flower image and about me banner was restructure by the landscape"</li>
+  
+  <h3>Tested on</h3>
+  <li>iPhone eXpensive portrait</li>
+  <li>iPhone eXpensive landscape</li>
+  <li>Android (Pixel 2) portrait</li>
+  <li>Android (Pixel 2) landscape</li>
+  <li>iPhone 6-8 landscape</li>
+  <li>iPhone 6-8 Plump portrait</li>
+  <li>Ipad</li>
+  <li>Samsung S5</li>
+    
+</ul>
 
 
 <h2>Credit</h2>
